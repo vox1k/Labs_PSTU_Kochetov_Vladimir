@@ -20,7 +20,7 @@
 | Курс | Семестр | Лабораторная работа | Результат |
 | :---: | :---: | :---: | :---: |
 | 1 | 1 | [Лабораторная №1](https://github.com/vox1k/Labs_PSTU_Kochetov_Vladimir/tree/main/bacolaur/1sem/lab1) | — |
-| 1 | 1 | Лабораторная №2 |(https://github.com/vox1k/Labs_PSTU_Kochetov_Vladimir/tree/main/bacolaur/1sem/lab2) — |
+| 1 | 1 | [Лабораторная №2](https://github.com/vox1k/Labs_PSTU_Kochetov_Vladimir/tree/main/bacolaur/1sem/lab2) | — |
 | 1 | 1 | Лабораторная №3 | — |
 | 1 | 1 | Лабораторная №4 | — |
 | 1 | 1 | Лабораторная №5 | — |
