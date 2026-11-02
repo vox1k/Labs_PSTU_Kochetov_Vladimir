@@ -1,21 +1,23 @@
 # Labs_PSTU_Kochetov_Vladimir
 
-### Кочетов Владимир
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![University](https://img.shields.io/badge/ПНИПУ-РИС--26--3б-blue)
+![Labs](https://img.shields.io/badge/лабораторные-3%2F10-green)
+![Last commit](https://img.shields.io/github/last-commit/vox1k/Labs_PSTU_Kochetov_Vladimir)
 
-**Группа:** РИС-26-3б
+> 📚 Лабораторные работы по программированию на C++, 1 курс, ПНИПУ
 
-**Контакты:**
+## 👤 Обо мне
 
-| Способ связи | Данные |
-| :--- | :--- |
-| Почта | vova.kochetov1990@gmail.com |
-| Телефон | +7 993 196-99-86 |
-| ВКонтакте | [vk.ru/voxlk](https://vk.ru/voxlk) |
-| Telegram | [@voxlk](https://t.me/voxlk) |
+**Кочетов Владимир**, группа РИС-26-3б
+
+[![Telegram](https://img.shields.io/badge/Telegram-@voxlk-26A5E4?logo=telegram&logoColor=white)](https://t.me/voxlk)
+[![VK](https://img.shields.io/badge/VK-voxlk-0077FF?logo=vk&logoColor=white)](https://vk.ru/voxlk)
+[![Gmail](https://img.shields.io/badge/Gmail-написать-D14836?logo=gmail&logoColor=white)](mailto:vova.kochetov1990@gmail.com)
 
 ---
 
-## Таблица успеваемости
+## 📊 Таблица успеваемости
 
 | Курс | Семестр | Лабораторная работа | Результат |
 | :---: | :---: | :---: | :---: |
